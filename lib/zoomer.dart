@@ -18,7 +18,7 @@ class _ZoomerState extends State<Zoomer> {
       appBar: PreferredSize(
         preferredSize: Size.fromHeight(80),
         child: MyAppBar(
-            title:"Zoomer",
+            title:"Zoom Goku",
           ctx: context,
         ),
       ),
