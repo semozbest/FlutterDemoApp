@@ -72,8 +72,8 @@ class _MyDataTableState extends State<MyDataTable> {
           ),
           DataRow(
               cells:[
-                DataCell(Text("30025")),
-                DataCell(Text("Bethelehem")),
+                DataCell(Text("32892")),
+                DataCell(Text("unkown")),
                 DataCell(
                     Icon(
                       Icons.pregnant_woman_outlined,
